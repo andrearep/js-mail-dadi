@@ -1,0 +1,14 @@
+.container-fluid{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(60, 101, 114);
+}
+.box{
+    background-color: white;
+    box-shadow: 2px 2px 4px black;
+    text-align: center;
+}
+#msg{
+    font-weight: bolder;
+    font-size: 2rem ;
+}
